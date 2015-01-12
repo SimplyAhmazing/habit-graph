@@ -6,3 +6,7 @@ A graphical approach to visualizing habit chains
 `bower install`
 
 `open index.html`
+
+
+## Run via Heroku locally
+`foreman start`
